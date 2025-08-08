@@ -31,10 +31,12 @@
 
 | | Project | Description | Tech Stack |
 |-|--------|-------------|------------|
+|<img width="200" height="200" alt="Group 2-2" src="https://github.com/user-attachments/assets/7f68bc56-4e09-4772-8d46-97d551afaefb" />| [**TruePayments**](https://apps.apple.com/ro/app/truepayments/id6749155737) | The smart loan calculator | 🎨 SwiftUI · 📱iOS · 📈 SwiftCharts · 🫙 SwiftData |
 |<img width="200" height="200" alt="vojo" src="https://github.com/user-attachments/assets/f78e31e6-ff55-484c-a6b0-dd7308e962a1" />| [**Vojo**](https://vojo.app/) | Net-worth tracker | ⚡️ NextJS · 📀 Supabase · ⏶ Vercel |
 |<img width="200" height="200" alt="tlprinting" src="https://github.com/user-attachments/assets/685d4276-257e-4b1c-b356-cbfccfd61d67" />| [**TLPrinting**](https://tlprinting.net/) | A web based label designer and printer compatible with thermal printers | ⚡️ NextJS · ⏶ Vercel · 🔥 Firebase |
 |<img width="200" height="200" alt="mocka" src="https://github.com/user-attachments/assets/c288838f-81ec-4c7e-949f-93e2b204f07a" />| [**MockaMatic**](https://apps.apple.com/app/mockamatic/id6737626688) | Mock servers from your phone | 🎨 SwiftUI · 📱iOS · 💻 macOS · 🫙 SwiftData |
 |<img width="200" height="200" alt="weightsnap" src="https://github.com/user-attachments/assets/0b889154-45e3-4e80-802f-6b990f9595db" />| [**WeightSnap**](https://apps.apple.com/app/weightsnap/id6742784401) | Weight trackker app | 🎨 SwiftUI · 📱iOS · 📈 SwiftCharts · 🫙 SwiftData |
+
 
 
 
